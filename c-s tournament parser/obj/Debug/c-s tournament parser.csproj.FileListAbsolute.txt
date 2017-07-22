@@ -1,0 +1,11 @@
+c:\users\randy\documents\visual studio 2017\Projects\c-s tournament parser\c-s tournament parser\bin\Debug\c-s tournament parser.exe.config
+c:\users\randy\documents\visual studio 2017\Projects\c-s tournament parser\c-s tournament parser\bin\Debug\c-s tournament parser.exe
+c:\users\randy\documents\visual studio 2017\Projects\c-s tournament parser\c-s tournament parser\bin\Debug\c-s tournament parser.pdb
+c:\users\randy\documents\visual studio 2017\Projects\c-s tournament parser\c-s tournament parser\bin\Debug\WebDriver.dll
+c:\users\randy\documents\visual studio 2017\Projects\c-s tournament parser\c-s tournament parser\bin\Debug\WebDriver.xml
+c:\users\randy\documents\visual studio 2017\Projects\c-s tournament parser\c-s tournament parser\obj\Debug\c-s tournament parser.csprojResolveAssemblyReference.cache
+c:\users\randy\documents\visual studio 2017\Projects\c-s tournament parser\c-s tournament parser\obj\Debug\c_s_tournament_parser.Form1.resources
+c:\users\randy\documents\visual studio 2017\Projects\c-s tournament parser\c-s tournament parser\obj\Debug\c_s_tournament_parser.Properties.Resources.resources
+c:\users\randy\documents\visual studio 2017\Projects\c-s tournament parser\c-s tournament parser\obj\Debug\c-s tournament parser.csproj.GenerateResource.Cache
+c:\users\randy\documents\visual studio 2017\Projects\c-s tournament parser\c-s tournament parser\obj\Debug\c-s tournament parser.exe
+c:\users\randy\documents\visual studio 2017\Projects\c-s tournament parser\c-s tournament parser\obj\Debug\c-s tournament parser.pdb
